@@ -19,6 +19,8 @@ You'll also need to define filetype(s) for `*.usd` and `*.usda` files.
 This is important. Otherwise, vim-usd-complete will not be able to
 search for USD-specific tags.
 
+Add these line(s) to your .vimrc:
+
 ```vim
 autocmd! BufRead,BufNewFile *.usd set filetype=usd
 autocmd! BufRead,BufNewFile *.usda set filetype=usda
