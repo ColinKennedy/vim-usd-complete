@@ -2,7 +2,7 @@ vim-usd-complete adds USD keywords as tags into Vim. The result is that
 you get fast auto-completion while writing USD files.
 
 ## Demo
-https://asciinema.org/a/251895
+[![asciicast](https://asciinema.org/a/251895.svg)](https://asciinema.org/a/251895)
 
 
 ## Installation
